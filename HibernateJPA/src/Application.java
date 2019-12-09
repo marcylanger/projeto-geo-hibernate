@@ -19,17 +19,17 @@ public class Application {
 
 		System.out.println("Carregou aplicação");
 
-		inserirGateway();
+		//inserirGateway();
 		//removerGateway();
-		inserirEndDevice();
+		//inserirEndDevice();
 		//removerEndDevice();
-		listarNosFromArea();
-		getQuantidadeNosFromArea();
-		listarNos();
-		//inserirAreaProdutiva();
+		//listarNosFromArea();
+		//getQuantidadeNosFromArea();
+		//listarNos();
+		inserirAreaProdutiva();
 		//removerAreaProdutiva();
-		listarGatewaysFromArea();
-		verificaPosicaoNo();
+		//listarGatewaysFromArea();
+		//verificaPosicaoNo();
 		
 	}
 
